@@ -49,12 +49,12 @@ Or run without arguments and enter URLs interactively:
 
 The fetched content will be saved in the archive web_archive.tar.gz, logs will be in logs/fetch.log, and hashes will be computed automatically.
 
-# Author 
+### Author 
 
-## LinkedIn: https://www.linkedin.com/in/newton-ojwang-19b2262a8
+#### LinkedIn: https://www.linkedin.com/in/newton-ojwang-19b2262a8
 
-## GitHub: https://github.com/Neewtonium
+#### GitHub: https://github.com/Neewtonium
 
-## WhatsApp: +254796763023
+#### WhatsApp: +254796763023
 
-## YouTube: https://youtube.com/@neewtonium?si=RDBlywA-IL5JHnoW
+#### YouTube: https://youtube.com/@neewtonium?si=RDBlywA-IL5JHnoW
