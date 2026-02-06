@@ -23,7 +23,7 @@ URLVault CLI is a simple Bash tool that fetches web pages, saves each as a times
 
 ```bash
 git clone https://github.com/Neewtonium/URLVault.git
-cd URLVault/scripts
+cd URLVault
 ````
 
 #### 2. Make the script executable:
